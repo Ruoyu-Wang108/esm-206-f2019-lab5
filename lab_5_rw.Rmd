@@ -1,0 +1,11 @@
+---
+title: "ESM 206 Lab5"
+author: "Ruoyu Wang"
+date: "2019/10/29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
